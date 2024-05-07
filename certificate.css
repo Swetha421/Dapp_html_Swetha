@@ -1,0 +1,15 @@
+a:hover{
+    background-color: blue;
+    color: white;
+}
+
+.al{
+    text-align: center;
+}
+.text{
+    text-align:right;
+}
+.btn{
+    background-color: blue;
+    color: white;
+}
